@@ -1,0 +1,30 @@
+/* Modified Alternate Style */
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #ffcc00; /* Change the background color to a different shade, e.g., yellow */
+    color: #000; /* Change the text color to a different color, e.g., black */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #993833; /* Change the header background color, e.g., blue */
+    color: #fff; /* Change the header text color to white */
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul li a {
+    color: #336699; /* Change the navigation link color, e.g., blue */
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #ab614d70; /* Change the footer background color, e.g., blue */
+    color: #fff; /* Change the footer text color to white */
+    text-align: center;
+    padding: 10px 0;
+}
