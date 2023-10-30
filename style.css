@@ -40,6 +40,12 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+nav ul li a.active {
+    /* Styles for the active link in the navigation menu */
+    background-color: #ffcc00; /* Example background color */
+    color: #000; /* Example text color */
+    /* Add additional styles to highlight the active link */
+}
 
 /* Styles for the footer */
 footer {
